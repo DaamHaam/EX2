@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="grad192" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111111" />
+      <stop offset="100%" stop-color="#ffcc33" />
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="28" fill="url(#grad192)" />
+  <g fill="#ffffff" font-family="'Montserrat', 'Helvetica', 'Arial', sans-serif" font-weight="700" text-anchor="middle">
+    <text x="96" y="86" font-size="64">BE</text>
+    <text x="96" y="150" font-size="56">FR</text>
+  </g>
+</svg>
